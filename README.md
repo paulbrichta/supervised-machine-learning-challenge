@@ -5,7 +5,7 @@ Paul Brichta
 ### Retrieve the Data
 The data is located in the Challenge Files Folder:
 
-    ```lending_data.csv```
+```lending_data.csv```
 
 Import the data using Pandas. Display the resulting dataframe to confirm the import was successful.
 
